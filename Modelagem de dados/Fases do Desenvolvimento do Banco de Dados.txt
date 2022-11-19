@@ -1,0 +1,29 @@
+Visão geral
+O processo de desenvolvimento de um Banco de dados utiliza um enfoque Top-Down, que transforma as exigências de informações empresariais em um Banco de dados operacional.
+O ponto de partida são as necessidades de informação do negócio.
+
+Fases do desenvolvimento de um Banco de dados
+1. Estratégia (Planejamento estratégico)
+2. Análise (Análise do negócio)
+3. Design (Projeto)
+4. Construção e documentação
+5. Transição
+6. Produção
+
+1. Estratégia (Planejamento estratégico)
+Definição do modelo de dados Entidade-relacionamento Conceitual, contendo as principais entidades, atributos, e relacionamentos identificados na fase de planejamento.
+
+2. Análise (Análise do negócio)
+Definição do Modelo de dados Entidade-relacionamento detalhado, contendo todas as entidades, atributos, relacionamento e identificadores únicos identificados para área de negócio nas fases de planejamento e análise.
+
+3. Design (Projeto)
+A partir do Modelo de Dados definido na Fase de Análise serão mapeadas as definições de tabelas, colunas. Constraints de Premary Keys, Unique Keys e Foreign Keys, Constraints de negócio (check Constraints), índices, sequences, visões, definições de espaço, database triggers etc.
+
+4. Construção e documentação
+A partir do Design de Dados definidos na Fase de Design serão gerados automaticamente ou desenvolvidos manualmente os comandos para criação dos objetos mapeados na Fase de Design, tais como: tabelas, colunas. Constraints de Primary Keys, Unique Keys e Foreign Keys, Constraints de Negócio (check Constraints), índices, sequences, visões, database triggers etc.
+
+5. Transição
+Passar uma aplicação para o ambiente de produção do usuário. Envolve as fases de testes de aceitação, conversão de dados existentes, operações de sistemas em paralelo e implementações de pilotos.
+
+6. Produção
+Operar o sistema em produção, monitorar seu desempenho, executar alterações e manutenções, correções de falhas e incrementar novas funcionalidades a aplicação.
