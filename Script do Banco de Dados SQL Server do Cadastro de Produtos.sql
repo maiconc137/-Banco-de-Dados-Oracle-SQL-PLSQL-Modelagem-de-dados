@@ -6,14 +6,14 @@ use dbcadprod;
 --criação de tabelas
 CREATE TABLE marcas
 (
-id INT PRIMARY KEY IDENTITY(1,1),
+id_marca INT PRIMARY KEY,
 descricao VARCHAR (50),
 tipo VARCHAR(2)
 );
 
 CREATE TABLE produto
 (
-id INT PRIMARY KEY IDENTITY(1,1),
+id_produto INT PRIMARY KEY,
 marcas_id INT,
 nome VARCHAR(100),
 preco MONEY,
