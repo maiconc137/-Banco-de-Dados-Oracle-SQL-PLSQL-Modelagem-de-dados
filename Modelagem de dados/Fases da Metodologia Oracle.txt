@@ -1,0 +1,30 @@
+Metodologia de desenvolvimento de sistemas
+Fases da metodologia
+1. Estratégia (Planejamento estratégico)
+2. Análise (Análise do negócio)
+3. Design (Projeto)
+4. Construção e documentação
+5. Transição
+6. Produção
+
+1. Estratégia (Planejamento estratégico)
+Produzir o plano estratégico para o desenvolvimento de sistemas que servirão para a organização das necessidades de informação atuais e futuras.
+
+2. Análise (Análise do negócio)
+Analisar detalhadamente uma área de negócio da aplicação específica, expandindo e refinando os resultados da fase estratégica, organizando um Molde de Dados e de Funções (processos) detalhado das necessidades do usuário.
+
+3. Design (Projeto)
+Projetar fisicamente os dados e os processos (módulos) para um sistema empresarial que cumprirão as exigências detalhadas do usuário identificadas na fase de análise do negócio.
+
+4. Construção e documentação
+4.1 Construção
+Produzir o software acabado e testado para o funcionamento do sistema aplicativo que irá suportar as necessidades do usuário atingindo os objetivos do sistema projetado.
+4.2 Documentação
+Desenvolver a documentação do usuário e manuais de operações para apoiar o uso e operação do sistema
+
+5. Transição
+Passar uma aplicação para o ambiente de produção do usuário. Envolve as fases de testes de aceitação, conversão de dados existentes, operações de sistemas em paralelo e implementações piloto.
+
+6. Produção
+Operar o sistema em produção, monitorar seu desempenho e executar alterações, manutenções, correções de falhas e incrementar novas funcionalidades a aplicação.
+
