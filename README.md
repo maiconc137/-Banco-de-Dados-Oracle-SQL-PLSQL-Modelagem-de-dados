@@ -1,1 +1,1 @@
-# -Banco-de-Dados-Oracle-SQL-PLSQL-Modelagem-de-dados
+# Banco de Dados Oracle SQL PL/SQL Modelagem de dados
