@@ -148,6 +148,7 @@ FROM employees
 WHERE employee_id = &employee_id;
 
 -- Utilizando Variáveis de Substituição - &&
+-- No workshoop do Apex, se usa : ao invés do & para variável de substituição.
 
 SELECT employee_id, last_name, salary, department_id
 FROM employees
