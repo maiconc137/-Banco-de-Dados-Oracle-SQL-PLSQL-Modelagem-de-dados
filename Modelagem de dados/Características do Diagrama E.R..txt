@@ -1,0 +1,9 @@
+Características do Diagrama E.R
+
+1. Sintaxe Robusta - Um diagrama E.R documenta as necessidades de informação de uma área de negócio
+ ou de uma organização de forma clara e precisa.
+2. Facilidade de desenvolvimento - Um diagrama E.R pode ser facilmente desenvolvido e refinado.
+3, Definição de escopo - Um modelo E.R provê um quadro claro do escopo e das necessidades de informação de uma área de negócio
+ ou de uma organização de aplicação.
+4. Integração de aplicação múltiplcas - Um modelo E.R é uma ferramenta efetiva para integrar múltiplas aplicações,
+ num desenvolvimento de projeto e/ou pacotes de aplicação adquiridos
