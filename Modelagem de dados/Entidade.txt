@@ -9,14 +9,21 @@ Uma classe ou categoria de objetos
 
 Escopo - Exemplo
 
-Eu admonistro o departmaneto de recursos humanos de uma pequena empresa.
+Eu administro o departamento de recursos humanos de uma pequena empresa.
 Nós precisamos manter informações sobre cada empregado de nossa empresa.
 Precisamos localizar o primeiro nome, sobrenome, cargo, data de adminissão e salário de cada empregado.
 Para qualquer emprego que ganha comissão, nós também precisamos controlar o percentual de comissão.
 
 Para cada empregado é atribuido um número único. Nossa companhia é dividida em departamentos. Cada
 empregado esta locado a um departamento.
-Preccisamos conhecer o departamento responsável por cada empregado e a localização deste apartamento.
-Cada departamento  possui um número único. Alguns empregados são gerentes. Nós precisamos conhecer o gerente de cafa empregado e os empregados que cada gerente adminstra.
+Precisamos conhecer o departamento responsável por cada empregado e a localização deste departamento.
+Cada departamento possui um número único. Alguns empregados são gerentes. 
+Nós precisamos conhecer o gerente de cada empregado e os empregados que cada gerente adminstra.
 
-Os elementos a seguir poderiam ser entidades de uma vez que 
+Os elementos a seguir poderiam ser entidades, 
+de uma vez que sobre os quais seria necessário manter informações importantes com relação as
+necessidades do negócio dentro do escopo do projeto:
+Empresa
+Empregado
+Departamento
+
