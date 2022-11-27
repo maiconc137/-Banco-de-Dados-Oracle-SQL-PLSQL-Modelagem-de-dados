@@ -1,7 +1,7 @@
 --
 -- Seção 7 
 -- Restringindo e Ordenando Dados
---
+-- 
 -- Aula 1
 -- 
 
