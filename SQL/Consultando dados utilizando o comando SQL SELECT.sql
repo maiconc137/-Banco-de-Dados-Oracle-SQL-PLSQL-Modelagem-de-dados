@@ -5,7 +5,7 @@
 -- Práticas da Aula 1
 -- 
 
--- Utilizando o comando DESCRIBE
+-- Utilizando o comando DESCRIBE 
 
 DESCRIBE employees
 
