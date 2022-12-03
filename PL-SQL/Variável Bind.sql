@@ -9,8 +9,8 @@
 SET SERVEROUTPUT ON
 VARIABLE gmedia NUMBER
 DECLARE
-  vnumero1  NUMBER(11,2) := 2000;
-  vnumero2  NUMBER(11,2) := 5000;
+  vnumero1  NUMBER(11,2) := 2E3;
+  vnumero2  NUMBER(11,2) := 5E3;
 BEGIN  
   :gmedia := (vnumero1 + vnumero2) / 2;
   DBMS_OUTPUT.PUT_LINE('Media = ' || TO_CHAR(:gmedia));
