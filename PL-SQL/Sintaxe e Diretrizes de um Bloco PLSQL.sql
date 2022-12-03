@@ -6,6 +6,7 @@
 
 -- Comentando o Código
 
+
 SET SERVEROUTPUT ON
 DECLARE
   vNumero1  NUMBER(13,2);  -- Declaração de variável para o Primeiro número
