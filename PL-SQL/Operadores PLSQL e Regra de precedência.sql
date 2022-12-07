@@ -4,7 +4,7 @@
 -- Aula 1 - Operadores PL/SQL
 --
 
--- Operadores PL/SQL - Com erro no cálculo devido ao mal uso da regra de precedência
+-- Operadores PL/SQL - Com erro no cálculo devido ao mal uso da regra de precedência  
 
 SET SERVEROUTPUT ON
 DECLARE
