@@ -4,7 +4,7 @@
 -- Aula 3 - Utilizando o comando CASE
 --
 
--- Utilizando o comando CASE
+-- Utilizando o comando CASE 
 
 SET SERVEROUTPUT ON
 ACCEPT pdepartment_id PROMPT 'Digite o Id do departamento: '
